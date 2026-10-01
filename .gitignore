@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.bak
+*_backup_*.py
+vung_theo_doi.json
+.codex/
+auth.json
+*.log
+screenshots/
+documents/
